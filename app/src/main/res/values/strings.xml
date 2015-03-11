@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clean Image</string>
+    <string name="title_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="how_to">STEP 1: Import an image. \nSTEP 2: Share the image.</string>
+    <string name="title_activity_about">About</string>
+    <string name="about">\tClean Image is an application that lets you take a deeper look at your images, this also allows you to clean, save and share your image to social media safely.\n\n\tAlmost all new digital cameras use the EXIF annotation, storing information on the image such as shutter speed, exposure compensation, what metering system was used, if a flash was used, date/time the image was taken, white balance and resolution. Some images even store GPS information so you can easily see where the images were taken!  When you share your image from this application, the EXIF data is removed and a copy is saved to your gallery, the image can then be sent safely anywhere, via text, email and social media sites.</string>
+
+</resources>
